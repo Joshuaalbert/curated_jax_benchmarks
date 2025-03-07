@@ -1,8 +1,8 @@
 # Problem Statement
 When someone needs to solve a problem, be it in science, engineering, or industry, they often spend consierable time trying to find the right tools. Often there are similar tools available, and it's not clear which tool is the best. This repository focuses on making this problem easy to solve. We deem that this implies:
-1. There should be an organised list of tools and packages.
-2. There should be standardised benchmarks so that we can assess tools on things like performance, accuracy, and robustness.
-3. There should be community sentiment to help finding the popular favourites within a problem class.
+1. **List**: There should be an organised list of tools and packages.
+2. **Standard Benchmarks**: There should be standardised benchmarks so that we can assess tools on things like performance, accuracy, and robustness.
+3. **Reviews**: There should be community sentiment to help finding the popular favourites within a problem class.
 
 ## Scope and Inclusion Criteria
 By "tool" we mean any software, or software component, that solves a general enough problem that others would find it useful. The inclusion criteria to get on this list is broad but with some structure to keep things orderly.
