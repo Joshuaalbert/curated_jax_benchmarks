@@ -27,6 +27,6 @@ Name: MPAX
 - it's maintained on GitHub: [repo](https://github.com/MIT-Lu-Lab/MPAX)
 
 Name: JAXNS
-- a nested sampling library for calculating Bayesian evidence
+- a probabilistic programming library for calculating Bayesian evidence
 - many scientific fields like cosmology, partical physics, climate science, geo science, and economics care about Bayesian evience
 - it's maintained on GitHub: [repo](https://github.com/Joshuaalbert/jaxns)
