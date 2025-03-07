@@ -4,7 +4,7 @@ When someone needs to solve a problem, be it in science, engineering, or industr
 2. There should be standardised benchmarks so that we can assess tools on things like performance, accuracy, and robustness.
 3. There should be community sentiment to help finding the popular favourites within a problem class.
 
-## Focus Areas
+## Scope and Inclusion Criteria
 By "tool" we mean any software, or software component, that solves a general enough problem that others would find it useful. The inclusion criteria to get on this list is broad but with some structure to keep things orderly.
 1. The tool should solve a well-defined problem.
 2. There should be a community of people who care about that problem.
