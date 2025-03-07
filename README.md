@@ -8,7 +8,7 @@ When someone needs to solve a problem, be it in science, engineering, or industr
 By "tool" we mean any software, or software component, that solves a general enough problem that others would find it useful. The inclusion criteria to get on this list is broad but with some structure to keep things orderly.
 1. The tool should solve a well-defined problem.
 2. There should be a community of people who care about that problem.
-3. The tool should already be exist in some repository.
+3. The tool should already exist in some repository, and be easy to install.
 4. Ideally, the tool should be actively maintained, but this need not be the case.
 5. The tool should be JAX-based.
 
